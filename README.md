@@ -1,2 +1,2 @@
-# odin-ruby-ceaser-cipher
-First simple ruby project implementing a ceaser cypher (Shifting letters by x amount in a String)
+# odin-ruby-basic-projects
+Repository containing TOP first simple ruby projects
